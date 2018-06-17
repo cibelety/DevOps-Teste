@@ -1,2 +1,2 @@
 # DevOps-Teste
-Destando uma pipeline DevOps
+Testando uma pipeline DevOps
